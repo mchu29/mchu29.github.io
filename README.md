@@ -1,3 +1,3 @@
-# coachella
+# Welcome
 
-This is a bit about Coachella and the wonderful experiences I've experienced during and after this festival. 
+Where I'm lost AF as I practice CSS and HTML.
